@@ -1,6 +1,6 @@
 {
   "name": "hardhat-web",
-  "homepage": "https://21Ayush21.github.io/hardhat-web/",
+  "homepage": "https://21Ayush21.github.io/BDA-miniproject/",
   "version": "0.1.0",
   "dependencies": {
     "@techstark/opencv-js": "4.5.5-release.2",
