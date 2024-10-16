@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/hardhat-web/static/css/main.1672735f.css",
+    "main.js": "/hardhat-web/static/js/main.c43c12ec.js",
+    "static/js/ort-wasm-simd.wasm": "/hardhat-web/static/js/ort-wasm-simd.wasm",
+    "static/js/ort-wasm-simd-threaded.wasm": "/hardhat-web/static/js/ort-wasm-simd-threaded.wasm",
+    "static/js/ort-wasm.wasm": "/hardhat-web/static/js/ort-wasm.wasm",
+    "static/js/ort-wasm-threaded.wasm": "/hardhat-web/static/js/ort-wasm-threaded.wasm",
+    "index.html": "/hardhat-web/index.html",
+    "main.1672735f.css.map": "/hardhat-web/static/css/main.1672735f.css.map",
+    "main.c43c12ec.js.map": "/hardhat-web/static/js/main.c43c12ec.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1672735f.css",
+    "static/js/main.c43c12ec.js"
+  ]
+}
